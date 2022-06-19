@@ -2,6 +2,7 @@
 Personal assignment 1
 
 Didalam sebuah aplikasi pendataan mahasiswa ingin terdapat halaman web untuk mengunggah file. Programmer diminta untuk membuatkan halaman web tersebut dengan ketentuan sebagai berikut:
+
 a.	Unggah 3 file: gambar (.jpg, .jpeg atau .png), file attachement sertifikat (zip atau rar), dan file cv (curriculum vitae) (.pdf).
 b.	File Gambar wajib untuk diupload dan dua lainnya opsional.
 c.	Jika file gambar tidak ada maka diberikan alert warning file belum dimasukkan
