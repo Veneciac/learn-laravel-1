@@ -5,6 +5,8 @@ Personal assignment 1
 
 Didalam sebuah aplikasi pendataan mahasiswa ingin terdapat halaman web untuk mengunggah file. Programmer diminta untuk membuatkan halaman web tersebut dengan ketentuan sebagai berikut:
 
+<img width="1307" alt="Screen Shot 2022-06-26 at 22 59 30" src="https://user-images.githubusercontent.com/42531274/175823075-36240cc3-95a1-4797-8086-5b23bc578db3.png">
+
 a. Unggah 3 file: gambar (.jpg, .jpeg atau .png), file attachement sertifikat (zip atau rar), dan file cv (curriculum vitae) (.pdf).
 
 b. File Gambar wajib untuk diupload dan dua lainnya opsional.
@@ -16,6 +18,6 @@ d. Hanya ada dua tombol dalam aplikasi ini yang pertama untuk mengirim (mengungg
 e. Tampilan aplikasi web yang dikehendaki adalah:
 
     •	Satu kotak teks untuk nama (nama lengkap)
-    •	Tombol grup radio untuk gender 
+    •	Tombol grup radio untuk gender
     •	Inputan untuk tempat dan tanggal lahir
     •	Unggahan 3 file.
